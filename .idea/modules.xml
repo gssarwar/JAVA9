@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JokeServer-IntelliJ.iml" filepath="$PROJECT_DIR$/JokeServer-IntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeapp/academy.learnprogramming.jokeapp.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeapp/academy.learnprogramming.jokeapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/academy.learnprogramming.jokeserver/academy.learnprogramming.jokeserver.iml" filepath="$PROJECT_DIR$/academy.learnprogramming.jokeserver/academy.learnprogramming.jokeserver.iml" />
+    </modules>
+  </component>
+</project>
